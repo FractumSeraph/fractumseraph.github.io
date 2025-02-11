@@ -3,7 +3,7 @@
     <title>Fractum&#x27;s Blog</title>
     <link href="https://fractumseraph.net/feed.xml" rel="self" />
     <link href="https://fractumseraph.net" />
-    <updated>2025-02-11T14:22:07-06:00</updated>
+    <updated>2025-02-11T14:25:52-06:00</updated>
     <author>
         <name>FractumSeraph</name>
     </author>
@@ -31,7 +31,7 @@
 <p>If you've made it to this site you probably also know about <a href="https://discord.fractumseraph.net/" target="_blank" rel="noopener noreferrer">my discord server</a>.  The server started as a place where I would help people set up and play Halo MCC. I cracked the game and made it so people could play together over a virtual LAN, but the process wasn't as simple as just running the game. So I made a youtube video with instructions, and linked to a discord server for help.  The server has since grown to over 1000 members, with various other cracked games and servers coming and going over time.</p>
 <p>The Piracy Guide is another project of mine you may have seen. It's a video series showing everything you need to know in order to become a competent piracy in the modern digital age. Even if you've never downloaded a .mp3 in your life, the goal of the piracy guide is to get you to the point where you can host torrents on seedboxes, work your way through private trackers, and never have to pay for things.  This was online for a time, hosted on a peertube server. But it has been shutdown while I build a new server from scratch.</p>
 <p>Occasionally I'll get in the mood to write a poem or song. I usually post them at a small pub in <a href="https://nightfall.city/" target="_blank" rel="noopener noreferrer">nightfall city</a>, but I may eventually make a place for them here as well.<br>Somewhat related, I plan to eventually make this server gemini capsule compatible, so you'll be able to browse it even from terminal.  But that will require some frontend work, which I will probably push off indefinitely.</p>
-<p>Lastly, if you want to learn more about me personally, I'll soon have an about page for myself. I don't normally post a lot of information about myself directly, but I'm a very open person so feel free to ask me if you have any questions. My contact info will be there as well.</p>
+<p>Lastly, if you want to learn more about me personally, I'll soon have an <a href="https://fractumseraph.net/authors/fractumseraph/" target="_blank" rel="noopener noreferrer">about page</a> for myself. I don't normally post a lot of information about myself directly, but I'm a very open person so feel free to ask me if you have any questions. My contact info will be there as well.</p>
             ]]>
         </content>
     </entry>

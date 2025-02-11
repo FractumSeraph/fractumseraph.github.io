@@ -1,1 +1,0 @@
-# fractumseraph.github.io

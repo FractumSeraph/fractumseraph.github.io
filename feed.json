@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Fractum&#x27;s Blog",
     "description": "",
-    "home_page_url": "https://blog.fractumseraph.net",
-    "feed_url": "https://blog.fractumseraph.net/feed.json",
+    "home_page_url": "https://fractumseraph.net",
+    "feed_url": "https://fractumseraph.net/feed.json",
     "user_comment": "",
-    "icon": "https://blog.fractumseraph.net/media/website/Japanese_crest_Tsuki_ni_Hoshi.svg.png",
+    "icon": "https://fractumseraph.net/media/website/Japanese_crest_Tsuki_ni_Hoshi.svg.png",
     "author": {
         "name": "FractumSeraph"
     },
     "items": [
         {
-            "id": "https://blog.fractumseraph.net/i-have-a-blog-now/",
-            "url": "https://blog.fractumseraph.net/i-have-a-blog-now/",
+            "id": "https://fractumseraph.net/i-have-a-blog-now/",
+            "url": "https://fractumseraph.net/i-have-a-blog-now/",
             "title": "I have a blog now.",
             "summary": "Hello there, friend! Glad to see you've made it to my website. I've had this domain for years but I never use it for anything&hellip;",
             "content_html": "<h2>Hello there, friend!</h2>\n<p>Glad to see you've made it to my website.  I've had this domain for years but I never use it for anything other than directing to other services.  So I suppose now is as good a time as any to add some actual content.<br><br>I don't know what all I'm going to post here. But it's probably going to be about various projects I'm working on. So for this first post, I'll list ll of the other services that you might be looking for instead of this.</p>\n<p>I run a Minecraft server. It's mostly survival with a few tweaks.  No griefing is allowed, so it's a chill server to just hang out in and make friends. It works on both Java nd Bedrock. Paid or cracked.  So it doesn't matter if your on PC, Xbox, PS4, Android, iOS, Nintendo Switch, or whatever. The server will allow you to join.  </p>\n<p>If you've made it to this site you probably also know about my discord server.  The server started as a place where I would help people set up and play Halo MCC. I cracked the game and made it so people could play together over a virtual LAN, but the process wasn't as simple as just running the game. So I made a youtube video with instructions, and linked to a discord server for help.  The server has since grown to over 1000 members, with various other cracked games and servers coming and going over time.</p>\n<p>The Piracy Guide is another project of mine you may have seen. It's a video series showing everything you need to know in order to become a competent piracy in the modern digital age. Even if you've never downloaded a .mp3 in your life, the goal of the piracy guide is to get you to the point where you can host torrents on seedboxes, work your way through private trackers, and never have to pay for things.  This was online for a time, hosted on a peertube server. But it has been shutdown while I build a new server from scratch.</p>\n<p>Occasionally I'll get in the mood to write a poem or song. I usually post them at a small pub in nightfall city, but I may eventually make a place for them here as well.<br>Somewhat related, I plan to eventually make this server gemini capsule compatible, so you'll be able to browse it even from terminal.  But that will require some frontend work, which I will probably push off indefinitely.</p>\n<p>Lastly, if you want to learn more about me personally, I'll soon have an about page for myself. I don't normally post a lot of information about myself directly, but I'm a very open person so feel free to ask me if you have any questions. My contact info will be there as well.</p>",

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Fractum&#x27;s Blog</title>
-    <link href="https://blog.fractumseraph.net/feed.xml" rel="self" />
-    <link href="https://blog.fractumseraph.net" />
+    <link href="https://fractumseraph.net/feed.xml" rel="self" />
+    <link href="https://fractumseraph.net" />
     <updated>2025-02-11T13:17:37-06:00</updated>
     <author>
         <name>FractumSeraph</name>
     </author>
-    <id>https://blog.fractumseraph.net</id>
+    <id>https://fractumseraph.net</id>
 
     <entry>
         <title>I have a blog now.</title>
         <author>
             <name>FractumSeraph</name>
         </author>
-        <link href="https://blog.fractumseraph.net/i-have-a-blog-now/"/>
-        <id>https://blog.fractumseraph.net/i-have-a-blog-now/</id>
+        <link href="https://fractumseraph.net/i-have-a-blog-now/"/>
+        <id>https://fractumseraph.net/i-have-a-blog-now/</id>
 
         <updated>2025-02-11T12:52:38-06:00</updated>
             <summary>

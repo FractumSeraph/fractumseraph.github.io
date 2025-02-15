@@ -10,4 +10,4 @@ This is a simple blog where I share my thoughts, projects, and ideas.
 
 ---
 
--# README.md by [Whisker_dev](https://github.com/Whisker-dev)
+#### README.md by [Whisker_dev](https://github.com/Whisker-dev)
